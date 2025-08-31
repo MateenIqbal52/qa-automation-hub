@@ -32,7 +32,7 @@ const Hero = () => {
       <div className="relative z-10 text-center text-white px-6 max-w-4xl mx-auto">
         <div className="animate-fade-in-up">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-            Hi, I'm <span className="gradient-text">Alex Johnson</span>
+            Hi, I'm <span className="gradient-text">Mateen Iqbal</span>
             <br />
             <span className="text-3xl md:text-5xl font-medium">Senior SQA Automation Engineer</span>
           </h1>
